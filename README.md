@@ -13,6 +13,7 @@ Main site: http://graphql.org/
 
 ## Learning GraphQL
 
+- [Learn GraphQL](https://learngraphql.com/)
 - [Learning GraphQL](https://github.com/mugli/learning-graphql)
 - [GraphQL Newsfeed Example Repo](https://github.com/reindexio/graphql-nodejs-newsfeed)
 - [Building a GraphQL Server](https://www.reindex.io/blog/building-a-graphql-server-with-node-js-and-sql/)
