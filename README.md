@@ -17,6 +17,7 @@ Main site: http://graphql.org/
 - [Learning GraphQL](https://github.com/mugli/learning-graphql)
 - [GraphQL Newsfeed Example Repo](https://github.com/reindexio/graphql-nodejs-newsfeed)
 - [Building a GraphQL Server](https://www.reindex.io/blog/building-a-graphql-server-with-node-js-and-sql/)
+- [Relay and GraphQL Introduction Materials](https://quip.com/oLxzA1gTsJsE)
 
 ## Conference Talks
 
@@ -52,6 +53,15 @@ Main site: http://graphql.org/
 - [Express](https://github.com/graphql/express-graphql)
 - [bloql](https://github.com/adriantoine/bloql)
 - [lift-graphql](https://github.com/jdivock/lift-graphql)
+
+## Blog Posts
+
+- [How GraphQL Taught Me to Code Client Apps](https://medium.com/@gregoryziegan/how-graphql-taught-me-to-code-client-apps-1c631a9953bd)
+- [Initial Impression on Relay and GraphQL](https://kadira.io/blog/graphql/initial-impression-on-relay-and-graphql)
+
+## GraphQL And Relay
+
+- [GraphQL and  Relay with Nick Schrock](http://softwareengineeringdaily.com/2015/09/19/graphql-and-relay-with-nick-schrock/)
 
 ## Community 
 
