@@ -9,6 +9,7 @@ Main site: http://graphql.org/
 - [GraphQL Introduction](https://facebook.github.io/react/blog/2015/05/01/graphql-introduction.html)
 - [GraphQL is SQL for Knowledge, Not Data](http://hhvm.ovh/entry/graphql-is-sql-for-knowledge-not-data)
 - [Demistifying GraphQL](https://medium.com/@devknoll/demystifying-graphql-86fb2febee14)
+- [Thinking in GraphQL](https://facebook.github.io/relay/docs/thinking-in-graphql.html)
 
 ## Learning GraphQL
 
@@ -24,6 +25,11 @@ Main site: http://graphql.org/
 - [GraphQL Servers - Nick Schrock](https://www.youtube.com/watch?v=KOudxKJXsjc)
 - [Facebook Structuring and Adopting a GraphQL Server - Nick Schrock](https://www.youtube.com/watch?v=ox8qGHUHrQo)
 - [GraphQL at The Financial Times - Viktor Charypar](https://www.youtube.com/watch?v=S0s935RKKB4)
+- [GraphQL: A Horizontal Platform - Nick Schrock](https://www.youtube.com/watch?v=LQFQl8EsV3k)
+
+## Presentation
+
+- [GraphQL: A Developer-friendly Interface to Data](https://speakerdeck.com/fson/graphql-a-developer-friendly-interface-to-data)
 
 ## Podcasts
 
@@ -43,6 +49,8 @@ Main site: http://graphql.org/
 
 - [Star Wars API](https://github.com/graphql/swapi-graphql)
 - [Express](https://github.com/graphql/express-graphql)
+- [bloql](https://github.com/adriantoine/bloql)
+- [lift-graphql](https://github.com/jdivock/lift-graphql)
 
 ## Community 
 
