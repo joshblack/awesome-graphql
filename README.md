@@ -27,7 +27,7 @@ Main site: http://graphql.org/
 - [GraphQL at The Financial Times - Viktor Charypar](https://www.youtube.com/watch?v=S0s935RKKB4)
 - [GraphQL: A Horizontal Platform - Nick Schrock](https://www.youtube.com/watch?v=LQFQl8EsV3k)
 
-## Presentation
+## Presentations
 
 - [GraphQL: A Developer-friendly Interface to Data](https://speakerdeck.com/fson/graphql-a-developer-friendly-interface-to-data)
 
