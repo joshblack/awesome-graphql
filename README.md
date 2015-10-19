@@ -36,6 +36,7 @@ Main site: http://graphql.org/
 ## Podcasts
 
 - [JavaScript Jabber: GraphQL with Nick Schrock and Joe Savona](https://devchat.tv/js-jabber/152-jsj-graphql-and-relay-with-nick-schrock-and-joe-savona-)
+- [GraphQL and Relay with Nick Schrock](http://softwareengineeringdaily.com/2015/09/19/graphql-and-relay-with-nick-schrock/)
 
 ## Language Implementations
 
