@@ -59,10 +59,15 @@ Main site: http://graphql.org/
 
 - [How GraphQL Taught Me to Code Client Apps](https://medium.com/@gregoryziegan/how-graphql-taught-me-to-code-client-apps-1c631a9953bd)
 - [Initial Impression on Relay and GraphQL](https://kadira.io/blog/graphql/initial-impression-on-relay-and-graphql)
+- [From REST to GraphQL](https://blog.jacobwgillespie.com/from-rest-to-graphql-b4e95e94c26b)
 
 ## GraphQL And Relay
 
 - [GraphQL and  Relay with Nick Schrock](http://softwareengineeringdaily.com/2015/09/19/graphql-and-relay-with-nick-schrock/)
+
+## Tools
+
+-[gulp-graphql](https://github.com/flipside/gulp-graphql)
 
 ## Community 
 
