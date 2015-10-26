@@ -23,6 +23,7 @@ Main site: http://graphql.org/
 
 - [Exploring GraphQL - Lee Byron (React Europe)](https://www.youtube.com/watch?v=WQLzZf34FJ8)
 - [Exploring GraphQL - Lee Byron (React Rally)](https://www.youtube.com/watch?v=cr4QB3j8qFc)
+- [Exploring GraphQL - Nick Schrock](https://www.youtube.com/watch?v=_9RgHXqH8J0)
 - [Creating a GraphQL Server - Nick Schrock & Dan Schafer](https://www.youtube.com/watch?v=gY48GW87Feo)
 - [GraphQL Servers - Nick Schrock](https://www.youtube.com/watch?v=KOudxKJXsjc)
 - [Facebook Structuring and Adopting a GraphQL Server - Nick Schrock](https://www.youtube.com/watch?v=ox8qGHUHrQo)
