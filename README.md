@@ -82,6 +82,7 @@ Main site: http://graphql.org/
 - RisingStack (risingstack) created a GraphQL ORM called [graffiti](https://github.com/RisingStack/graffiti) that you can plug into mongoose and serve using Express, Hapi, or Koa*
 - David Mongeau-Petitpas (dmongeau) is working on a way to vend your Laravel models through a GraphQL endpoint, [laravel-graphql](https://github.com/Folkloreatelier/laravel-graphql)*
 - Gerald Monaco (devknoll) created [graphql-schema](https://github.com/devknoll/graphql-schema) to allow the creation of JavaScript GraphQL schemas using a fluent/chainable interface*
+- Adam Pietrasiak created [typegql](https://github.com/prismake/typegql) that can be used to create advanced graphql schema with plain javascript classes and decorators
 
 
 \* Taken from [Community Round-up #27](http://facebook.github.io/react/blog/2015/09/14/community-roundup-27.html)
