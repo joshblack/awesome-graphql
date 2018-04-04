@@ -58,6 +58,7 @@ Main site: http://graphql.org/
 - [Express](https://github.com/graphql/express-graphql)
 - [bloql](https://github.com/adriantoine/bloql)
 - [lift-graphql](https://github.com/jdivock/lift-graphql)
+- [GitHub Client with React and Apollo](https://github.com/rwieruch/react-graphql-github-apollo)
 
 ## Blog Posts
 
