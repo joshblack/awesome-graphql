@@ -51,6 +51,7 @@ Main site: http://graphql.org/
 - [Python](https://github.com/dittos/graphql-py)
 - [Scala](https://github.com/sangria-graphql/sangria)
 - [.NET](https://github.com/joemcbride/graphql-dotnet)
+- [Go](https://github.com/appointy/jaal)
 
 ## Example Implementations
 
